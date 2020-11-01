@@ -1,5 +1,5 @@
 
-# Segmentation Machine Learning Models 
+# Customer Segmentation Machine Learning Models 
 
 
 ## K Means Clustering Algorithm
